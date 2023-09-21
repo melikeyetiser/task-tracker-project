@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # TaskTrackerProject
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.1.
@@ -25,3 +26,7 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+=======
+# task-tracker-project
+Angular project following Angular Crash Course by Traversy Media
+>>>>>>> c350638b404fa560825661ad2943688af9aa623a
